@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Katie</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate builder of learning and productivity tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuykat&label=Profile%20views&color=0e75b6&style=flat" alt="thuykat" /> </p>
 

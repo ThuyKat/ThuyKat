@@ -87,6 +87,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThuyKat&show_icons=true&locale=en&cache_seconds=1800" alt="thuykat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=ThuyKat" alt="thuykat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=ThuyKat&theme=tokyonight" alt="thuykat" /></p>
 
 ![Katie's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThuyKat&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Katie</h1>
 <h3 align="center">A passionate builder of learning and productivity tools.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thuykat&label=Profile%20views&color=0e75b6&style=flat" alt="thuykat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThuyKat&label=Profile%20views&color=0e75b6&style=flat" alt="thuykat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,11 +82,11 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thuykat&show_icons=true&locale=en&layout=compact" alt="thuykat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThuyKat&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="thuykat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thuykat&show_icons=true&locale=en" alt="thuykat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThuyKat&show_icons=true&locale=en&cache_seconds=1800" alt="thuykat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuykat&" alt="thuykat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThuyKat" alt="thuykat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThuyKat&theme=tokyonight" alt="thuykat" /></p>
 

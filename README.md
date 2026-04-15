@@ -11,7 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <div style={{display:"flex"}}>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -82,7 +81,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
   </a>
-  </div>
 </p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThuyKat&show_icons=true&locale=en&cache_seconds=1800" alt="thuykat" /></p> -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ThuyKat&theme=tokyonight&cache_seconds=86400" alt="thuykat" /> 
